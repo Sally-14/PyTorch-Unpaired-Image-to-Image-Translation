@@ -1,4 +1,4 @@
-# Pix-to-Pix-
+# Unpaired Image to Image Translation
 Intersession 2019- Deep Learning: Medical Image Analysis Class Project
 
 
